@@ -1,0 +1,12 @@
+사용장비
+ - windows 10 64bit
+ - intel i7-9750H
+ - 16GB RAM
+ - NVIDIA GeForce RTX 2070(8GB)
+
+사용 환경:
+ - Anaconda3
+ - python 3.6
+ - tensorflow-gpu = 2.3.0
+ - CUDA 10.1
+ - cudnn 7.6.5

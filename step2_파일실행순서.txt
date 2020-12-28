@@ -1,0 +1,12 @@
+
+% 파이참에서 실행 %
+
+긍정부정 이진분류 시:
+ 1. steam_naver_hyundai.py 실행 -> 모델생성
+ 2. steam_naver_hyundai_shop_load(모델로드).py 실행 -> 모델로드
+ 3. check_same.py 실행 -> 정확도 체크
+
+긍정부정중립 멀티분류 시:
+ 1. 3classification.py 실행 -> 모델생성
+ 2. 3class_load.py 실행 -> 모델로드
+ 3. check_same.py 실행 -> 정확도 체크 
